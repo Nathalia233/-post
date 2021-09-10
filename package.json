@@ -1,0 +1,19 @@
+{
+  "name": "post",
+  "version": "1.0.0",
+  "description": "Exercicio do curso de node intermediario da DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathalia233/-post.git"
+  },
+  "author": "NAthalia-Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nathalia233/-post/issues"
+  },
+  "homepage": "https://github.com/Nathalia233/-post#readme"
+}
